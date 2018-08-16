@@ -1,4 +1,4 @@
-n=int(input())
-h=n//60
-k=n%60
-print h,k
+i=int(input())
+m=i//60
+n=i%60
+print m,n
